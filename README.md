@@ -25,3 +25,4 @@ the next step is to see the questions in our admin which we can see the list of 
 
 In the questions we can also see the detail of each questions which contained: Number of views and Number of votes and tags
 
+![question detail](https://github.com/sadeghjalalian/Stackoverflow-django/blob/master/Screenshot%202019-12-08%20at%2017.34.24.png)
