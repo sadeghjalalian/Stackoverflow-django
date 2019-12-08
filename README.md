@@ -22,3 +22,6 @@ http://127.0.0.1:8000/stack/latest
 the next step is to see the questions in our admin which we can see the list of newest android question sorted by number of voted
 
 ![list of questions](https://github.com/sadeghjalalian/Stackoverflow-django/blob/master/Screenshot%202019-12-08%20at%2017.34.00.png)
+
+In the questions we can also see the detail of each questions which contained: Number of views and Number of votes and tags
+
